@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="aux_functions.cpp" />
     <ClCompile Include="main.cpp" />
+    <CudaToolkitCustomDir>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0</CudaToolkitCustomDir>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aux_functions.h" />

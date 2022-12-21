@@ -21,6 +21,7 @@
   <ItemGroup>
     <CudaCompile Include="kernel.cu" />
   </ItemGroup>
+    <CudaToolkitCustomDir>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0</CudaToolkitCustomDir>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6A7CA3EB-C9B0-44E6-9942-D5FD08E1425D}</ProjectGuid>
     <RootNamespace>norm</RootNamespace>

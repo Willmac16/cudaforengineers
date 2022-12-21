@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+    <CudaToolkitCustomDir>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0</CudaToolkitCustomDir>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{ABF9B46D-0D31-4778-8B44-6A6C8D29A96E}</ProjectGuid>
     <RootNamespace>sharpen_npp</RootNamespace>

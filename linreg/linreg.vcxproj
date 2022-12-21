@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+    <CudaToolkitCustomDir>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0</CudaToolkitCustomDir>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D4E71D08-CB4C-419E-9743-8B5775F6C989}</ProjectGuid>
     <RootNamespace>linreg</RootNamespace>
