@@ -163,12 +163,12 @@ copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
     <ClInclude Include="kernel.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\cuda\cuda-samples\bin\win64\Release\freeglut.dll" />
-    <None Include="..\..\cuda\cuda-samples\bin\win64\Release\glew64.dll" />
+    <None Include="C:\Users\willm\cuda\cuda-samples\bin\win64\Release\freeglut.dll" />
+    <None Include="C:\Users\willm\cuda\cuda-samples\bin\win64\Release\glew64.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\cuda\cuda-samples\Common\lib\x64\freeglut.lib" />
-    <Library Include="..\..\cuda\cuda-samples\Common\lib\glew64.lib" />
+    <Library Include="C:\Users\willm\cuda\cuda-samples\Common\lib\x64\freeglut.lib" />
+    <Library Include="C:\Users\willm\cuda\cuda-samples\Common\lib\glew64.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
